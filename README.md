@@ -12,12 +12,12 @@ To better understand analyzed data, using visual elements such as [charts](https
 ### Data numbers need context
 **Without context, charts are less effective**
 
-A best practice for any data analyzed in a [dashboard](https://medium.com/inspiration-supply/car-dashboard-ui-ux-concepts-d135959d963f) is that you should always add context. Be it data of your competitor in order to compare them or from a similar product that you own. Without context, your dashboard will be less effective. There are other ways to provide context such as listing the goals, show [statistics](https://en.wikipedia.org/wiki/Statistics) from last year, display industry standard for a metric.
+A best practice for any data analyzed in a dashboard is that you should always add context. Be it data of your competitor in order to compare them or from a similar product that you own. Without context, your dashboard will be less effective. There are other ways to provide context such as listing the goals, show statistics from last year, display industry standard for a metric.
 
 ---
 
 ### Keep it simple & easy to read
 **Simple UI and legible text are a need**
 
-Effective dashboard design show always have a simple [user experience](https://medium.com/inspiration-supply/wireframes-by-top-ux-designers-d6922d34ddb8) and interface, good typography, suitable colors, icons and visual aids to highlight important data. All of these points will let the user read and sift through information faster and get the data that he needs.
+Effective dashboard design show always have a simple user experience and interface, good typography, suitable colors, icons and visual aids to highlight important data. All of these points will let the user read and sift through information faster and get the data that he needs.
 
